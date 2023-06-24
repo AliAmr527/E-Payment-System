@@ -1,5 +1,5 @@
 # E-Payment-System
-Simulated E-Payment-System using apis for a college assignment
+Simulated E-Payment-System using APIs for a college assignment
 
 # Project Description
 - This project uses REST APIs developed in Java using Spring Initializr which are tested using postman API platform. 
