@@ -2,7 +2,7 @@
 Simulated E-Payment-System using apis for a college assignment
 
 # Project Description
-- This project uses REST APIs developed in Java using Spring Initializr which are tested using postman. 
+- This project uses REST APIs developed in Java using Spring Initializr which are tested using postman API platform. 
 - This project is a simulation for an online payment system that helps in paying online bills of several services such as mobile services, internet services etc.
 - This project uses 3 different design patterns while trying to apply the SOLID principles:-
   - The first design pattern we applied in our class diagram is the decorator design pattern, using the interface “Discount Adder” as the interface and “Overall discount”, “Specific discount” as the concrete decorators applied to the different services we have in our system.
